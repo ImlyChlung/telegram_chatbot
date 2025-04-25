@@ -13,8 +13,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, ContextTyp
 LOG_FORMAT = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 DEEPSEEK_API_BASE_URL = "https://api.deepseek.com/v1"
 
-DEEPSEEK_API_KEY = "sk-1ea0e745c2e44f518ea2eebf7d46daa8"
-TELEGRAM_TOKEN = "7154013689:AAHhiNAYT8bZVdxQFel1PS5a1xMGCYZ6pF0"
+DEEPSEEK_API_KEY = "xxxxx"
+TELEGRAM_TOKEN = "yyyyy"
 
 # 支付预设链接（测试环境）
 PRESET_PAYMENT_LINKS = {
